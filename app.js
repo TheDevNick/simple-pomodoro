@@ -20,6 +20,7 @@ let timerStatus = "stopped"
 
 function stopWatch() {
     // when we press the play button the seconds will increment
+    // add more functionality
 
 
     seconds++
